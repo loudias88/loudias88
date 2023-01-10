@@ -33,7 +33,7 @@
   </tbody>
 </table>
 
-<br><br>
+<br>
 
 
 <a href="mailto: luisheleno.dias@gmail.com" target="_blank">
@@ -43,7 +43,7 @@
   <img src="https://img.shields.io/badge/-linkedin-blue?style=for-the-badge&logo=linkedin&logoColor=white">
 </a>
 
-<br>
+<br><br>
 
 
 
