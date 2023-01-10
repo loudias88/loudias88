@@ -8,7 +8,7 @@
   <tbody>
     <tr>
       <td align="left" width="60%">
-         <p style="text-indent: 20px;">I'm a self-taught person, that's one of the most valuable things about me. Whenever I have a problem, I do my best to solve it, and I often succeed. However, when I cannot find the solution myself, I prepare a concise question for a co-worker, senior or tutor so as not to waste their precious time. My commitment to learning is a very important quality about me, I study and/or develop a project almost every day, this is very clear on my github profile. I live in Rio Grande do Sul, Brazil, but I am open to opportunities in any other part of the world working remotely.</p>
+         <p style="text-indent: 20px;">I'm a self-taught person, that's one of the most important things about me. I am communicative, I work well in a team and my focus is always on solving problems. However, when I cannot find the solution myself, I prepare a concise question for a co-worker, senior or tutor so as not to waste their precious time. My commitment to learning is constant, I study and/or develop a project almost every day, this is very clear on my github profile. I live in Rio Grande do Sul, Brazil, but I am open to opportunities in any other part of the world working remotely.</p>
    </tr>
   </tbody>
 </table>
