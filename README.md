@@ -26,7 +26,7 @@
      
          
 
-   ## **Front-end:**
+  - ## **Front-end:**
 
    -   **React JS**
    -   **JavaScript**
@@ -34,12 +34,6 @@
    -   **CSS3**
    -   **TypeScript**
 
-</div>
-      
-   </tr>
-    
-  </tbody>
-</table>
 
 <br>
 
