@@ -15,6 +15,14 @@
 
 <br>
 
+<a href="mailto: luisheleno.dias@gmail.com" target="_blank">
+  <img src="https://img.shields.io/badge/-gmail-red?style=for-the-badge&logo=gmail&logoColor=white">
+</a>
+ <a href="https://www.linkedin.com/in/luis-heleno-dias-1988-rs/" target="_blank">
+  <img src="https://img.shields.io/badge/-linkedin-blue?style=for-the-badge&logo=linkedin&logoColor=white">
+</a>
+
+<br>
      
          
 
@@ -34,18 +42,6 @@
 </table>
 
 <br>
-
-
-<a href="mailto: luisheleno.dias@gmail.com" target="_blank">
-  <img src="https://img.shields.io/badge/-gmail-red?style=for-the-badge&logo=gmail&logoColor=white">
-</a>
- <a href="https://www.linkedin.com/in/luis-heleno-dias-1988-rs/" target="_blank">
-  <img src="https://img.shields.io/badge/-linkedin-blue?style=for-the-badge&logo=linkedin&logoColor=white">
-</a>
-
-<br><br>
-
-
 
 
 - ## **Technologies**
