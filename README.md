@@ -26,13 +26,13 @@
      
          
 
-  - ## **Front-end:**
+  - ## **Technologies:**
 
    -   **React JS**
    -   **JavaScript**
    -   **HTML5**
    -   **CSS3**
-   -   **TypeScript**
+  
 
 
 <br>
