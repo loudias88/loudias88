@@ -27,11 +27,15 @@
          
 
   - ## **Technologies:**
-
-   -   **React JS**
-   -   **JavaScript**
+   
    -   **HTML5**
    -   **CSS3**
+   -   **JavaScript**
+   -   **React JS**
+   -   **PHP**
+   -   **SQL**
+   
+   
   
 
 
