@@ -31,10 +31,10 @@
    -   **HTML5**
    -   **CSS3**
    -   **JavaScript**
-   -   **React JS**
+   -   **Angular**
    -   **PHP**
    -   **SQL**
-   
+   -   **Python**
    
   
 
