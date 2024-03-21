@@ -31,8 +31,6 @@
    -   **HTML5**
    -   **CSS3**
    -   **JavaScript**
-   -   **Angular**
-   -   **PHP**
    -   **SQL**
    -   **Python**
    
